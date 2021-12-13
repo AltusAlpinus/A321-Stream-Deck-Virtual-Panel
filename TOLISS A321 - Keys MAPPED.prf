@@ -1,0 +1,24 @@
+
+A SHIFT AirbusFBW/CaptChronoButton Chrono button on Captain side pressed.
+A <NONE> toliss_airbus/spd_push AP SPD Selector knob pushed
+B <NONE> toliss_airbus/spd_pull AP SPD Selector knob pulled
+E <NONE> AirbusFBW/PullHDGSel AP HDG Selector knob pulled
+F <NONE> AirbusFBW/PushHDGSel AP HDG Selector knob pushed
+G <NONE> AirbusFBW/PullAltitude AP Altitude Selector knob pulled
+H <NONE> AirbusFBW/PushAltitude AP Altitude Selector knob pushed
+I <NONE> AirbusFBW/PullVSSel AP V/S Selector knob pulled
+J <NONE> toliss_airbus/vs_push AP V/S Selector knob pushed
+K <NONE> AirbusFBW/LOCbutton LOC button pressed.
+L <NONE> AirbusFBW/ATHRbutton ATHR button pressed.
+M <NONE> AirbusFBW/APPRbutton APPR button pressed.
+N <NONE> AirbusFBW/EXPEDbutton EXPED button pressed.
+O <NONE> AirbusFBW/ECAMRecall Press the RCL Cancel button on the ECP
+Q <NONE> AirbusFBW/TOConfigPress Pressing the TO config button on the ECP
+R <NONE> AirbusFBW/EmerCancel Press the EMER Cancel button on the ECP
+T <NONE> AirbusFBW/ECP/CaptainClear Press the CLR button on the captain side of the ECAM Control Panel.
+U <NONE> AirbusFBW/ECP/CopilotClear Press the CLR button on the copilot side of the ECAM Control Panel.
+V <NONE> AirbusFBW/ECAMAll Press the ALL button on the ECP
+W <NONE> AirbusFBW/PopUpEWD EWD popup toggle.
+X <NONE> AirbusFBW/PopUpSD SD popup toggle.
+Y <NONE> AirbusFBW/PopUpPFD1 Captain PFD enable popup.
+Z <NONE> AirbusFBW/PopUpND1 Captain ND enable popup.

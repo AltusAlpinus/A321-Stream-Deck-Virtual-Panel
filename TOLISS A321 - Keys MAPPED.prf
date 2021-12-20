@@ -2,7 +2,9 @@
 A SHIFT AirbusFBW/CaptChronoButton Chrono button on Captain side pressed.
 A <NONE> toliss_airbus/spd_push AP SPD Selector knob pushed
 B <NONE> toliss_airbus/spd_pull AP SPD Selector knob pulled
+B SHIFT toliss_airbus/eleccommands/IDG1PressAndHold Press and Hold the IDG1 disconnect switch
 E <NONE> AirbusFBW/PullHDGSel AP HDG Selector knob pulled
+E SHIFT toliss_airbus/eleccommands/IDG2PressAndHold Press and Hold the IDG2 disconnect switch
 F <NONE> AirbusFBW/PushHDGSel AP HDG Selector knob pushed
 G <NONE> AirbusFBW/PullAltitude AP Altitude Selector knob pulled
 H <NONE> AirbusFBW/PushAltitude AP Altitude Selector knob pushed

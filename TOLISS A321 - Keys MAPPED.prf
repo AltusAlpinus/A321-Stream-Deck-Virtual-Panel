@@ -1,18 +1,25 @@
-
-A SHIFT AirbusFBW/CaptChronoButton Chrono button on Captain side pressed.
 A <NONE> toliss_airbus/spd_push AP SPD Selector knob pushed
+A SHIFT AirbusFBW/CaptChronoButton Chrono button on Captain side pressed.
 B <NONE> toliss_airbus/spd_pull AP SPD Selector knob pulled
 B SHIFT toliss_airbus/eleccommands/IDG1PressAndHold Press and Hold the IDG1 disconnect switch
 E <NONE> AirbusFBW/PullHDGSel AP HDG Selector knob pulled
 E SHIFT toliss_airbus/eleccommands/IDG2PressAndHold Press and Hold the IDG2 disconnect switch
 F <NONE> AirbusFBW/PushHDGSel AP HDG Selector knob pushed
+F SHIFT AirbusFBW/FireTestAPU Test Fire detection circuits for APU.
 G <NONE> AirbusFBW/PullAltitude AP Altitude Selector knob pulled
+G SHIFT AirbusFBW/FireTestENG1 Test Fire detection circuits for engine 1.
 H <NONE> AirbusFBW/PushAltitude AP Altitude Selector knob pushed
+H SHIFT AirbusFBW/FireTestENG2 Test Fire detection circuits for engine 2.
 I <NONE> AirbusFBW/PullVSSel AP V/S Selector knob pulled
+I SHIFT AirbusFBW/EngFireProt/APUAgentPush Press and Hold the APU Agent  pushbutton
 J <NONE> toliss_airbus/vs_push AP V/S Selector knob pushed
+J SHIFT AirbusFBW/EngFireProt/Eng1Agent1Push Press and Hold the Engine 1 Agent 1 pushbutton
 K <NONE> AirbusFBW/LOCbutton LOC button pressed.
+K SHIFT AirbusFBW/EngFireProt/Eng1Agent2Push Press and Hold the Engine 1 Agent 2 pushbutton
 L <NONE> AirbusFBW/ATHRbutton ATHR button pressed.
+L SHIFT AirbusFBW/EngFireProt/Eng2Agent1Push Press and Hold the Engine 2 Agent 1 pushbutton
 M <NONE> AirbusFBW/APPRbutton APPR button pressed.
+M SHIFT AirbusFBW/EngFireProt/Eng2Agent2Push Press and Hold the Engine 2 Agent 2 pushbutton
 N <NONE> AirbusFBW/EXPEDbutton EXPED button pressed.
 O <NONE> AirbusFBW/ECAMRecall Press the RCL Cancel button on the ECP
 Q <NONE> AirbusFBW/TOConfigPress Pressing the TO config button on the ECP
@@ -24,3 +31,10 @@ W <NONE> AirbusFBW/PopUpEWD EWD popup toggle.
 X <NONE> AirbusFBW/PopUpSD SD popup toggle.
 Y <NONE> AirbusFBW/PopUpPFD1 Captain PFD enable popup.
 Z <NONE> AirbusFBW/PopUpND1 Captain ND enable popup.
+
+
+
+
+
+
+
